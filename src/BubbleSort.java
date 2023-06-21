@@ -7,7 +7,7 @@ public static void main(String[] args) throws Exception {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
-        }
+    }
 
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
@@ -21,5 +21,5 @@ public static void main(String[] args) throws Exception {
                 }
             }
         }
-}
+    }
 }
